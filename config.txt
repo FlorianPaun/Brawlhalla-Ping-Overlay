@@ -1,0 +1,9 @@
+region = EU
+
+US-E: pingtest-atl.brawlhalla.com
+US-W: pingtest-cal.brawlhalla.com
+EU: pingtest-ams.brawlhalla.com
+SEA: pingtest-sgp.brawlhalla.com
+AUS: pingtest-aus.brawlhalla.com
+BRAZIL: pingtest-brs.brawlhalla.com
+JAPAN: pingtest-jpn.brawlhalla.com
